@@ -11,7 +11,7 @@
 ## 📂 Download
 
 1. Install Git on your system if you haven't already.
-2. Run `git clone https://git.ripper.fun/ripper/Stream.git`
+2. Run `git clone https://git.cdak.ws/cdak/Stream.git`
 
 ## 🔧 Setup
 1. Install Node.js if you haven't already from [nodejs.org](https://nodejs.org)
@@ -22,12 +22,12 @@
 6. **(Optional)** Change the site logo by replacing `/public/logo.png` with your own logo.
 7. **(Optional)** Change the site icon by replacing `/public/icon.png` with your own icon, use a square (1:1) image for best results.
 8. **(Optional)** Change the site name by replacing `Ripper+` in `/.env` and `/index.html`.
-9. **(Optional)** Add any advertisement codes in `/index.html` (Like [Adsterra](https://beta.publishers.adsterra.com/referral/PT87awEpeu))
+9. **(Optional)** Add any advertisement codes in `/index.html` (Like [Adsterra](https://beta.publishers.adsterra.com/referral/fMYMsgM7NM))
 10. Run `npm run build` in the terminal to build the production files
 11. Upload the contents of the `/dist` folder to production. (**ObiNode**, Netlify, etc.)
 
 
-[![Adsterra](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/PT87awEpeu)
+[![Adsterra](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/fMYMsgM7NM)
 
 
 ## ☁️ ObiNode
