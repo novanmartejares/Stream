@@ -1,4 +1,4 @@
-# ![Ripper Stream](https://assets.lol/media/streaming-screenshot-1-2023-12-04.jpg)
+# ![Ripper Stream](https://i.ibb.co/qrXNkyH/streaming-screenshot-1-2023-12-04.jpg)
 
 ## 🔗 Links
 - **[Demo](https://rstream.cc)**
@@ -36,5 +36,3 @@
 2. Create a new site in the dashboard
 3. Click on the site and go to the **"Deploy"** tab
 4. Click the upload zone and upload the `/dist` folder
-
-# ![ObiNode](https://api.rypr.io/files/view/311303b6-8d68-4fed-8572-06810d7d2d9d/firefox_BirEYoDRdu.png)
