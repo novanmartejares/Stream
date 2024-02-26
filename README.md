@@ -6,7 +6,7 @@
 - **[git.cdak.ws](https://git.cdak.ws)**
 
 ## 🖥️ Requirements
-- Static Web Hosting - **[ObiNode](https://obinode.com)**
+- Static Web Hosting - **[Jink](https://clients.jink.host/link.php?id=5)**
 
 ## 📂 Download
 
@@ -28,11 +28,3 @@
 
 
 [![Adsterra](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/fMYMsgM7NM)
-
-
-## ☁️ ObiNode
-#### How to host on ObiNode for FREE!
-1. Go to **[ObiNode](https://obinode.com)** and create an account
-2. Create a new site in the dashboard
-3. Click on the site and go to the **"Deploy"** tab
-4. Click the upload zone and upload the `/dist` folder
