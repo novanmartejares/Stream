@@ -26,9 +26,13 @@
 10. Run `npm run build` in the terminal to build the production files
 11. Upload the contents of the `/dist` folder to production. (**Jink**, Netlify, etc.)
 12. Configure nginx to work with SPA. Add this in your server block or vhost
+
+```nginx
 location / {
    try_files $uri $uri/ /index.html;
 }
+
+This will ensure that Nginx serves the `index.html` file
 
 
 [![Adsterra](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/fMYMsgM7NM)
