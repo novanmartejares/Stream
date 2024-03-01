@@ -31,7 +31,6 @@
 location / {
    try_files $uri $uri/ /index.html;
 }
-
 ```
 
 [![Adsterra](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/fMYMsgM7NM)
