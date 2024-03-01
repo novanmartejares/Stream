@@ -1,7 +1,7 @@
 # ![Ripper Stream](https://i.ibb.co/qrXNkyH/streaming-screenshot-1-2023-12-04.jpg)
 
 ## 🔗 Links
-- **[Demo](https://rstream.cc)**
+- **[Demo](https://fossa.tv)**
 - **[Discord](https://ripper.fun/discord.html)**
 - **[git.cdak.ws](https://git.cdak.ws)**
 
