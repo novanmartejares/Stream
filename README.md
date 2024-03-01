@@ -32,7 +32,6 @@ location / {
    try_files $uri $uri/ /index.html;
 }
 
-This will ensure that Nginx serves the `index.html` file
-
+```
 
 [![Adsterra](https://landings-cdn.adsterratech.com/referralBanners/gif/468x60_adsterra_reff.gif)](https://beta.publishers.adsterra.com/referral/fMYMsgM7NM)
