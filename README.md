@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 - **[Demo](https://fossa.tv)**
-- **[Discord](https://ripper.fun/discord.html)**
+- **[Discord](https://discord.com/invite/8tQsDUyqu2)**
 - **[git.cdak.ws](https://git.cdak.ws)**
 
 ## 🖥️ Requirements
